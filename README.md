@@ -14,4 +14,4 @@ This nice Machine Learning Notebook can predict if your flight is going to delay
 ##### I saw that some of this readme makes less sense than expected. 
 ##### → The Flight isn't delayed at arrival, I thought it was when I did the test.
 ##### → In the output (second screenshot) it says "on the 7 th", of course it doesn't mean the date, <br> it means sunday ("7th day of the week" it was supposed to say)
-##### → Thanks for reading 😄
+##### → Thanks for reading 😄 
